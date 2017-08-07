@@ -36,7 +36,7 @@ public class GSTINValidator {
 		}
 		return result;
 	}
-
+//method
 	private static String getGSTINWithCheckDigit(String gstinWOCheckDigit) throws Exception {
 		int factor = 2;
 		int sum = 0;
