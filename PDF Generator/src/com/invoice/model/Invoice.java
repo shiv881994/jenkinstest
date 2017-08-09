@@ -2,7 +2,7 @@ package com.invoice.model;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Model class
 public class Invoice {
 private String invoiceNo;
 private String invoiceDate;
